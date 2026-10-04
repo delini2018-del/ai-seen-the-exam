@@ -1,0 +1,6 @@
+data/
+results/*.npy
+__pycache__/
+.venv/
+*.pyc
+.ipynb_checkpoints/
